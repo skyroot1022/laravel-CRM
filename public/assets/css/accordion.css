@@ -1,0 +1,41 @@
+.function-acc {
+    margin: 0;
+    border:#000 1px solid;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration:none;
+    color: #666;
+    font-size:1em;
+    text-align: left;
+    padding: 20px 50px;
+}
+
+.function-acc-open {
+    background:#000;
+    border:#000 1px solid;
+    color: #fff;
+}
+.function-acc-open span {
+    display:block;
+    float:right;
+    padding:10px;
+}
+.function-acc-open span {
+    background:url(../img/minus.png) center center no-repeat;
+}
+.function-acc-close span {
+    display:block;
+    float:right;
+    background:url(../img/plus.png) center center no-repeat;
+    padding:10px;
+}
+.function-desc {
+    margin: 0;
+    border:#999 1px solid;
+    color: #666;
+}
+
+.function-desc p{
+    text-align: left;
+    padding: 0 50px;
+    margin-top: 30px;
+}
